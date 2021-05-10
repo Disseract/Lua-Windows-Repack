@@ -1,4 +1,7 @@
-The special repack of "Lua for Windows" ⸺ 9000XZ noob-friendly limited edition!
+***The special repack of "Lua for Windows" ⸺ 9000XZ noob-friendly limited edition!***
+
+This is meant to be used by people who want to compile Lua on Windows by themselves, but they don't know how-to... or perhaps you want to mess with Lua C API as quick as possible; wait no more.  
+*The goal of this repack is to make it all dead-simple, so even a cavemen could do it as fast as possible without using any third-party programs!*
 
 With this repack, there are no pre-compiled binaries, you need to build/compile Lua from source.  
 Furtunately, this repack comes with several additions regarding the building/compiling phase, featuring:  
